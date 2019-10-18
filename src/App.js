@@ -19,7 +19,9 @@ function App() {
             "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(0,128,13,1) 100%)"
         }}
       >
-        <h1 style={{ fontSize: "80px", color: "white" }}>POUET INCOMING</h1>
+        <h1 style={{ fontSize: "80px", color: "white" }}>
+          POUET INCOMING (ptet un jour)
+        </h1>
       </div>
     </div>
   );
