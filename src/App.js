@@ -20,7 +20,7 @@ function App() {
         }}
       >
         <h1 style={{ fontSize: "80px", color: "white" }}>
-          POUET INCOMING (ptet un jour)
+          POUET INCOMING (if thou gaze long into an abyss, the abyss will also gaze into thee )
         </h1>
       </div>
     </div>
